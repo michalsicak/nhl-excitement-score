@@ -2,8 +2,7 @@
 
 #### Code
 
-- [ ] create functions from the script
-- [ ] use OOP principles to refactor
+- [ ] use functions from the script
 
 #### Features
 
@@ -11,6 +10,8 @@
 - [ ] error for today and future
 - [ ] add hits to the dataframe
 - [ ] add highlights to the dataframe
+- [ ] add blocked shots (from boxscore)
+
 
 #### Engineering
 
