@@ -2,7 +2,7 @@
 
 #### Code
 
-- [ ] use functions from the script
+- [ ] use functions
 
 #### Features
 
